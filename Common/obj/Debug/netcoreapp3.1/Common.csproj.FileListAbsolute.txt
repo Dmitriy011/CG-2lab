@@ -1,0 +1,9 @@
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Rozanov\Desktop\CG_lab2-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb

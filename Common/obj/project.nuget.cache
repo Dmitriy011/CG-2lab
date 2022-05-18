@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QIY2MsW4UpyCdtlDFG4yhN6c8e15P3bSt5lz+cTLF1G6O3fps34I3qP2o4vt/r/d0bOKCIvVGXXjEdTaZ2qusw==",
+  "dgSpecHash": "U9IDYwoEUCmn1Whgyh8FdVin5e6iB5Hw6DoSS0DDlSK7nUhwKh1oyq/qV6dz5jGjQ3TxR4ofPwxOBbGWTpo/vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rozanov\\Desktop\\CG_lab2-master\\Common\\Common.csproj",
+  "projectFilePath": "C:\\Users\\Rozanov\\Desktop\\КГ 2 лаба\\CG-2lab\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rozanov\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Rozanov\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",

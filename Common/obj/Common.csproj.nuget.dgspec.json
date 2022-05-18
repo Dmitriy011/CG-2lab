@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rozanov\\Desktop\\CG_lab2-master\\Common\\Common.csproj": {}
+    "C:\\Users\\Rozanov\\Desktop\\КГ 2 лаба\\CG-2lab\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rozanov\\Desktop\\CG_lab2-master\\Common\\Common.csproj": {
+    "C:\\Users\\Rozanov\\Desktop\\КГ 2 лаба\\CG-2lab\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rozanov\\Desktop\\CG_lab2-master\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Rozanov\\Desktop\\КГ 2 лаба\\CG-2lab\\Common\\Common.csproj",
         "projectName": "LearnOpenTK.Common",
-        "projectPath": "C:\\Users\\Rozanov\\Desktop\\CG_lab2-master\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\Rozanov\\Desktop\\КГ 2 лаба\\CG-2lab\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Rozanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rozanov\\Desktop\\CG_lab2-master\\Common\\obj\\",
+        "outputPath": "C:\\Users\\Rozanov\\Desktop\\КГ 2 лаба\\CG-2lab\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rozanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
